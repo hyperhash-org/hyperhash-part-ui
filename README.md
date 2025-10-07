@@ -1,2 +1,2 @@
-# hyperhash-part-ui
-Hyperhash UI: Flask-based dashboard for Hyperhash pool in Python.
+# Hyperhash UI
+Flask-based web dashboard for monitoring Hyperhash mining pool stats, sync status, and latency, written in Python.
